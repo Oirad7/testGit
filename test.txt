@@ -3,3 +3,4 @@ teste2
 teste 3 local
 teste 4 local 
 teste 5 brach1 local
+teste 6 branch remote
