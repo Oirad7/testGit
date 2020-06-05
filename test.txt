@@ -2,5 +2,9 @@ teste
 teste2
 teste 3 local
 teste 4 local 
+<<<<<<< HEAD
 teste 5 brach1 local
 teste 6 branch remote
+=======
+teste 5 master remote
+>>>>>>> 727c7b5c1ba4f4796cabcf29705933ac037c6042
